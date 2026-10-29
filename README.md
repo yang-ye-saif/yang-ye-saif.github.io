@@ -21,7 +21,7 @@ Open http://127.0.0.1:8000/. No package installation or build is needed.
 - CV: replace `docs/assets/documents/cv.pdf` and its legacy copy `docs/Documents/CV_YEYANG.pdf` together.
 - Navigation/footer appear in both main HTML pages; update both together.
 
-Use the supplied CV and current Google Sites content as factual sources. Before publication confirm the Management Science R&R status and whether the labor paper title should use “Substitutability” (current Google Site) or “Substitution” (CV). No manuscript link was supplied for the working paper.
+Research entries and both downloadable CV copies were updated from `CV_261029` on October 29, 2026. The CV confirms the Management Science R&R status and the labor paper title “Imperfect Labor Substitution: Implications for Asset Pricing.” The working-paper list follows that CV; abstracts already present are retained. No manuscript links or abstracts were supplied for the two newly listed working papers.
 
 ## Compatibility
 
