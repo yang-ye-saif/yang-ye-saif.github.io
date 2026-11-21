@@ -2,3 +2,14 @@
 @media print{.site-header,.site-footer,.section-nav,.profile-links{display:none}.home-main{padding-top:0;gap:35px}.wrap{max-width:none;padding:0}.portrait{max-width:180px}body{font-size:12pt}a{color:inherit}.paper{break-inside:avoid}}
 
 .page-intro>.research-description{font-size:17px;line-height:1.7;max-width:800px;margin:0 0 28px}.page-intro>.research-summary{margin-bottom:14px}.interests p{font-size:16px}
+
+/* Featured recent work: restrained emphasis consistent with the academic layout. */
+.recent-label{display:flex;align-items:center;gap:8px;color:var(--accent);font:600 14px var(--sans);letter-spacing:.035em;margin:0 0 13px}
+.recent-label span{font-size:19px;line-height:1}
+.featured-paper{border-left:2px solid var(--accent);padding-left:22px;margin-bottom:36px}
+.home-recent{border-left:2px solid var(--accent);padding-left:18px;margin:26px 0}
+.home-recent h2{font-size:21px;line-height:1.45;margin:0 0 8px}
+.home-recent h2 a{text-decoration:none}
+.home-recent .coauthors{font-size:15px;margin:0 0 8px}
+.abstract-link{font-size:14px}
+@media(max-width:600px){.featured-paper{padding-left:16px}.home-recent h2{font-size:20px}}
